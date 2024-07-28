@@ -917,3 +917,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.28-04.44.15:186][389]AssetCheck: New page: Asset Save: multiple assets
 [2024.07.28-04.44.15:186][389]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2024.07.28-04.44.15:187][389]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2024.07.28-04.45.27:573][ 90]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.28-04.45.27:582][ 90]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.07.28-04.45.27:594][ 90]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.07.28-04.45.44:634][ 93]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ball
+[2024.07.28-04.45.44:641][ 93]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.07.28-04.45.48:456][495]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/BP_ball.BP_ball
+[2024.07.28-04.45.48:731][495]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2024.07.28-04.45.51:797][598]LogRenderer: Reallocating scene render targets to support 1140x708 Format 10 NumSamples 1 (Frame:101).
+[2024.07.28-04.45.52:198][644]LogSlate: Window 'BP_ball' being destroyed
+[2024.07.28-04.46.08:389][167]BlueprintLog: New page: Compile BP_ball
+[2024.07.28-04.46.08:436][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.07.28-04.46.08:475][167]LogSlate: Took 0.003136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.07.28-04.46.20:243][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/BP_ball" FILE="../../../../../../Github/UELess7_1/Content/TopDownBP/BP_ball.uasset" SILENT=true
+[2024.07.28-04.46.20:256][369]LogSavePackage: Moving '../../../../../../Github/UELess7_1/Saved/BP_ball57EA0F80476A8DD66BFE9C910EEDB02A.tmp' to '../../../../../../Github/UELess7_1/Content/TopDownBP/BP_ball.uasset'
+[2024.07.28-04.46.20:278][369]AssetCheck: New page: Asset Save: BP_ball
+[2024.07.28-04.46.20:278][369]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/BP_ball.BP_ball
+[2024.07.28-04.46.28:576][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="../../../../../../Github/UELess7_1/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.28-04.46.28:602][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.07.28-04.46.28:627][230]LogSavePackage: Moving '../../../../../../Github/UELess7_1/Saved/TopDownExampleMapD2AAD88C47BAE309CAF232985D1D9123.tmp' to '../../../../../../Github/UELess7_1/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2024.07.28-04.46.28:632][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../../Github/UELess7_1/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2024.07.28-04.46.28:681][230]LogSavePackage: Moving '../../../../../../Github/UELess7_1/Saved/TopDownExampleMap_BuiltData9A5B3AD14ED16D9F2F3FFFAA2EC4C737.tmp' to '../../../../../../Github/UELess7_1/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2024.07.28-04.46.28:697][230]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.28-04.46.28:697][230]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2024.07.28-04.46.28:697][230]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
